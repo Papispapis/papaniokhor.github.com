@@ -1,0 +1,92 @@
+html {letter-spacing: normal; 
+    line-height: 1,5cm; 
+    }
+
+body {background-image: url('Images/marche-public.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+    }
+
+h1 {color: brown; 
+    text-align: center; 
+    background-color: antiquewhite;
+    }
+
+.Apropos {text-align: center; 
+          color: brown;
+        }
+
+h2 {margin: 10px; 
+    color: brown;
+    font-weight: bold;
+    }
+
+#heure {color: brown; 
+        margin: 10px;
+        }
+
+p {text-align:left; 
+    color: brown;
+    margin: 10px;
+    }
+
+img,
+.scr {max-width: 250px;
+    margin: 25px;
+    opacity: 75%;
+    padding-inline:35%;
+    padding-top: 0%;
+    padding-block-end: 0%;
+    }
+
+.Presentation {color: black; 
+                font-size: medium; 
+                margin: 15px; 
+                padding: 10px; 
+                background-color: rgb(101, 210, 223);
+                line-height: normal;
+                }
+
+.Competences {margin: 15px; 
+              color: rgb(232, 35, 35);
+            }
+
+.Projets {margin: 15px; 
+          color: rgb(232, 35, 35);
+        }
+
+.Hobbies {margin: 15px; 
+          color: rgb(232, 35, 35);
+        }
+
+.ActivitésSportives {margin: 15px; 
+                    color: rgb(232, 35, 35);
+                   }
+
+form {text-align: center;
+    border-width: 50;
+    margin: 15px;
+    padding-top: 5%;
+    padding-block-end: 5%;
+    background-color: rgb(46, 188, 188);
+    font-weight: bold;
+    }
+
+#Formulaire {text-align: center;
+               font-weight: bold;
+               color: black;
+            }
+
+footer {margin: 10px;
+    border-color: black;
+    padding: auto;
+    background-color: black;
+    padding-top: 1%;
+    padding-block-end: 1%;
+    }
+
+.container {color: rgb(251, 251, 251); 
+            margin: 10px;
+            }
+
